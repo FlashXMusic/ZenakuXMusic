@@ -34,7 +34,7 @@ KOYEB_API_KEY = getenv("KOYEB_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Zenaku2050s/ZenakuXMusic",
+    "https://github.com/FlashXMusic/ZenakuXMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
